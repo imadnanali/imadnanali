@@ -6,7 +6,7 @@
 ### 🔥 About Me
 - 🌱 I’m currently learning **JavaScript, Node.js, and Tailwind CSS**
 - 🛠️ Building real-world web apps during my **100 Days of Web Development Challenge**
-- 📫 Reach me at: **adnali.dev@gmail.com**
+- 📫 Reach me at: [adnali.dev@gmail.com](mailto:adnali.dev@gmail.com)
 - 🌍 Portfolio: [View Website](https://imadnanali.github.io/Portfolio/)
 
 ---
